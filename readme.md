@@ -16,5 +16,6 @@
 * git commit -m "commit message"
 * git push origin new_branch
 
-
+* git checkout main
+* git merge new_branch
 
