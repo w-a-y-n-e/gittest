@@ -8,3 +8,5 @@
 * git remote add origin
 * git push -u origin master
 
+* git branch -M main
+* git checkout new_branch
